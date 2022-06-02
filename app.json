@@ -1,0 +1,37 @@
+{
+    "name":"GitHub.App",
+    "description":"GitHub.App",
+    
+    "keywords":["GitHub" , "Herramientas" ,"Telegram"],
+    
+    "repository":"https://github.com/jeanco148/GitHub.App",
+    
+    "env":{
+        
+        "TOKEN":{
+            "description":"Token de BotFather",
+            "value":"TOKEN"
+        },
+                
+        "API_ID":{
+            "description":"api_id",
+            "value":"API_ID"
+        },
+        
+        "API_HASH":{
+            "description":"api_hash",
+            "value":"API_HASH"
+        }
+    
+        
+    },
+    
+    "buildpacks":[
+        
+        {"url":"heroku/python"}
+        
+        ],
+    
+    "stack":"heroku-20"
+    
+}

@@ -1,0 +1,6 @@
+asgiref
+async-lru
+requests
+requests-oauthlib
+TgCrypto
+telethon
