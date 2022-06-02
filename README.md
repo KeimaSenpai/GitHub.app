@@ -14,7 +14,7 @@
   <summary><b>Deploy</b></summary>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/jeanpssss/GitHub.App"> <img height="28px" width="164px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku"> </a>
+<a href="https://heroku.com/deploy?template=https://github.com/KeimaSenpai/GitHub.app"> <img height="28px" width="164px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku"> </a>
 
 </details>
 
@@ -24,7 +24,7 @@
 
 <summary><b>Canal en Telegram</b></summary><br>
 
-<a href="https://t.me/JeanNetwork" ><img alt="Telegram" src="https://img.shields.io/badge/JeanNetwork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+<a href="https://t.me/keimasnepai" ><img alt="Telegram" src="https://img.shields.io/badge/JeanNetwork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
 
   
 </details>
@@ -33,6 +33,6 @@
   
 <summary><b>Bot</b></summary><br>
 
-<a href="https://t.me/GithubApp_Bot" ><img alt="Telegram" src="https://img.shields.io/badge/GithubApp_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+<a href="https://t.me/Keima_Senpai" ><img alt="Telegram" src="https://img.shields.io/badge/GithubApp_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
 
 </details>
